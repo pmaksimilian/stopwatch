@@ -1,0 +1,19 @@
+.container {
+    text-align: center;
+}
+
+#mainCounter {
+    font-weight: 800;
+    font-size: 6rem;
+}
+
+.btn {
+    margin: 1rem;
+    width: 100px;
+}
+
+#resultContainer {
+    margin-top: 3rem;
+    font-size: 2rem;
+    font-weight: 600;
+}
